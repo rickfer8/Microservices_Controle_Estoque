@@ -1,0 +1,8 @@
+br\com\controle\estoque\buyprocess\service\banco\VendaRetorno.class
+br\com\controle\estoque\buyprocess\gateway\json\VendaChaveJson.class
+br\com\controle\estoque\buyprocess\service\banco\BancoService.class
+br\com\controle\estoque\buyprocess\gateway\json\VendaFinalizadaJson.class
+br\com\controle\estoque\buyprocess\gateway\json\VendaJson.class
+br\com\controle\estoque\buyprocess\gateway\json\BancoRetornoJson.class
+br\com\controle\estoque\buyprocess\service\processar\ListenerService.class
+br\com\controle\estoque\buyprocess\ApplicationBuyProcess.class
